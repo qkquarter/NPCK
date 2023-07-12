@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\newnoca\\desktop\\alpha\\source\\npck\\npckgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\npckeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\unrealeditor\\development\\npck\\definitions.npck.h",
+            "c:\\users\\newnoca\\desktop\\alpha\\source\\npck\\npckgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\npck\\uht\\npckgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

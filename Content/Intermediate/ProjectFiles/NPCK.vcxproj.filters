@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NPCK.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NPCK.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NPCKEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\NPCK">
+      <UniqueIdentifier>{9812130E-5307-37AB-B653-04D1E67E24A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NPCK\NPCK.Build.cs">
+      <Filter>Source\NPCK</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NPCK\NPCK.cpp">
+      <Filter>Source\NPCK</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NPCK\NPCK.h">
+      <Filter>Source\NPCK</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NPCK\NPCKGameModeBase.cpp">
+      <Filter>Source\NPCK</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NPCK\NPCKGameModeBase.h">
+      <Filter>Source\NPCK</Filter>
+    </ClInclude>
+    <Filter Include="Source\NPCK\Private">
+      <UniqueIdentifier>{97616AA2-3009-3515-9195-DFD26AA95C04}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NPCK\Private\CSC_AttackComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\CSC_FInisher.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\CSC_LockOnComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\CSC_PlayerInterFace.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\CSC_Weapons.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\KYI_DetectionNode.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\KYI_GrappleComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\KYI_GrapplePoint.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\NPCK_AnimInstance.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\NPCK_MoveComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\NPCK_Player.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\PJH_EnemyBase.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\PJH_EnemyBaseAnim.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\PJH_EnemyFSM.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\PJH_GuardComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCK\Private\PJH_ParryComponent.cpp">
+      <Filter>Source\NPCK\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NPCK\Public">
+      <UniqueIdentifier>{4FBD1A76-676C-386B-A231-D8334CCD2946}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NPCK\Public\CSC_AttackComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\CSC_FInisher.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\CSC_LockOnComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\CSC_PlayerInterFace.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\CSC_Weapons.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\KYI_DetectionNode.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\KYI_GrappleComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\KYI_GrapplePoint.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\NPCK_AnimInstance.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\NPCK_MoveComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\NPCK_Player.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\PJH_EnemyBase.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\PJH_EnemyBaseAnim.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\PJH_EnemyFSM.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\PJH_GuardComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPCK\Public\PJH_ParryComponent.h">
+      <Filter>Source\NPCK\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

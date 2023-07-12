@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\npck\\uht\\kyi_grapplecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\npckeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\unrealeditor\\development\\npck\\definitions.npck.h",
+            "c:\\users\\newnoca\\desktop\\alpha\\source\\npck\\public\\kyi_grapplecomponent.h",
+            "c:\\users\\newnoca\\desktop\\alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\npck\\uht\\kyi_grapplecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NPCK",
+			"Path": "C:\\Users\\newnoca\\Desktop\\Alpha\\Source\\NPCK.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NPCKEditor",
+			"Path": "C:\\Users\\newnoca\\Desktop\\Alpha\\Source\\NPCKEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

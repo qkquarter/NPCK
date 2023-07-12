@@ -1,0 +1,71 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" NPCKEditor Win64 Development -Project="C:\Users\newnoca\Desktop\Alpha\NPCK.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\newnoca\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\newnoca\Desktop\Alpha).
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0001.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0001.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0002.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0002.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0003.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0003.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0004.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0004.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0005.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0005.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0006.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0006.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0008.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0008.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0009.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0009.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0010.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0010.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0011.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0011.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0013.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0013.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0014.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0014.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0017.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0017.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0018.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0018.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0019.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0019.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0020.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-0020.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-3301.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-3301.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-4942.dll
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Binaries\Win64\UnrealEditor-NPCK-4942.pdb
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0001.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0002.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0003.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0004.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0005.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0006.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0008.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0009.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0010.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0011.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0013.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0014.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0017.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0018.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0019.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-0020.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-3301.lib
+  Deleted hot-reload file: C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK-4942.lib
+  Building NPCKEditor...
+  Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from NPCK unity file: CSC_AttackComponent.cpp, CSC_FInisher.cpp, CSC_PlayerInterFace.cpp, CSC_Weapons.cpp, NPCK_AnimInstance.cpp, NPCK_MoveComponent.cpp, NPCK_Player.cpp, PJH_EnemyBase.cpp, PJH_EnemyBaseAnim.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 6.63 GB available: limiting max parallel actions to 4
+  Building 3 actions with 3 processes...
+  [1/3] Link UnrealEditor-NPCK.lib
+     C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK.lib 라이브러리 및 C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK.exp 개체를 생성하고 있습니다.
+  [2/3] Link UnrealEditor-NPCK.dll
+     C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK.suppressed.lib 라이브러리 및 C:\Users\newnoca\Desktop\Alpha\Intermediate\Build\Win64\UnrealEditor\Development\NPCK\UnrealEditor-NPCK.suppressed.exp 개체를 생성하고 있습니다.
+  [3/3] WriteMetadata NPCKEditor.target
+  Total time in Parallel executor: 1.24 seconds
+  Total execution time: 2.08 seconds
